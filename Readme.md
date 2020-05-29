@@ -12,3 +12,11 @@
 - integrate the APIs to the video management systems
 - Refine the cloud formation for deployment scalability and robustness
 - Implement detection classes for safety cloth and safety shoes
+
+## Demo:
+<p align="center"> 
+<img src="https://github.com/NTTDataCloud/SafetyHelmetSagemaker/raw/master/demo1.png" width = 50% height = 50%>
+</p>  
+<p align="center"> 
+<img src="https://github.com/NTTDataCloud/SafetyHelmetSagemaker/raw/master/demo2.png" width = 50% height = 50%>
+</p>  
