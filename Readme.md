@@ -21,5 +21,7 @@
 <img src="https://github.com/NTTDataCloud/SafetyHelmetSagemaker/raw/master/demo2.png" width = 50% height = 50%>
 </p>  
 
-# Demo Website: http://happyhelmetpostprocalb-518099815.us-east-1.elb.amazonaws.com/
-The website demonstrates video frames which has persons without wearing helmet.
+# Demo Website:
+
+http://happyhelmetpostprocalb-518099815.us-east-1.elb.amazonaws.com/
+- The website demonstrates video frames which has persons without wearing helmet.
