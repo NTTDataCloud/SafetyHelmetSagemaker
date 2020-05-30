@@ -1,4 +1,4 @@
-# Safety Helmet
+# Safety Helmet Wearing/Not Wearing Detection
 
 ## What Does The Program Do:
 - Training Dataset Collected from Google and Baidu
