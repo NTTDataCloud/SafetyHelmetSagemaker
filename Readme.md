@@ -1,7 +1,7 @@
 # Safety Helmet Wearing/Not Wearing Detection
 
 ## What Does The Program Do:
-- Training Dataset Collected from Google and Baidu
+- Training Dataset Collected from Google and Baidu, improved through manual labeling
 - Trained using AWS Sagemaker Resnet-50 network using ImageNet pre-trained model, validation mAP: 62.82
 - Inference result for two classes: ['helmet', 'person'] for person with helmet, and person without helmet
 - RTSP feed transfer to Kinesis Stream, using the model trained to detect helmet/no_helmet, send to kinesis datastream, using Lambda to save information to S3
